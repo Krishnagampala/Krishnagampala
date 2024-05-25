@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishnagampala
 - 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...data science
+- 🌱 I’m currently learning ... (.NET)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...9912964328
 
